@@ -1,0 +1,15 @@
+body {
+  background-color: #222;
+  color: white;
+  text-align: center;
+  padding: 50px;
+  font-family: Tahoma, sans-serif;
+}
+
+h1 {
+  color: #00bcd4;
+}
+
+p {
+  color: #ccc;
+}
